@@ -1,3 +1,3 @@
-<h1>NestJs Authentication</h1>
+<h1>Authentication of users using NestJs, Cqrs and JWT Token</h1>
 
 
